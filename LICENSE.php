@@ -1,4 +1,5 @@
 <?php
 
 	echo "Hello Git!";
-	echo "HELLO NEW_F";
+	echo "Hello Git2!";
+	echo "branch new_f";
