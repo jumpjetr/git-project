@@ -1,7 +1,6 @@
 <?php
 
+
 	echo "Hello Git!";
-	sdfsdf
-	sdfsdf
-	sdfsdf
-	sdfsfd
+	echo "Hello Git2!";
+	echo "branch master";
